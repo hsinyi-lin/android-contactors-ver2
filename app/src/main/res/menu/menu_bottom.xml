@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/btnLeft"
+        android:icon="@drawable/icons8addproperties16"
+        android:title="新增" />
+    <item
+        android:id="@+id/btnRight"
+        android:icon="@drawable/icons8newcontact16"
+        android:title="所有資料" />
+</menu>
